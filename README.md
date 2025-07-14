@@ -1,7 +1,7 @@
 ##
 KAUST Academy Artificial Intelligence Summer 2025
 
-This is the base Repository for the KAUST Academy Summer School that will be held in two locations in the Kingdom of Saudi Arabia.
+This is a Repository for the KAUST Academy Summer School Labs in the first two weeks of computer vision.  The program is in two locations in the Kingdom of Saudi Arabia.
 
 - King Abdullah University of Science and Technology (KAUST)
 - King Khalid University (KKU)
