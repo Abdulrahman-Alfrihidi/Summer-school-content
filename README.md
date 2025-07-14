@@ -1,5 +1,5 @@
 ##
-I worked as a Teaching Assistant for the following content of the summer school.
+I worked as a Teaching Assistant for the following practical content of the summer school.
 KAUST Academy Artificial Intelligence Summer 2025
 
 This is a Repository for the KAUST Academy Summer School Labs in the first two weeks of computer vision.  The program is in two locations in the Kingdom of Saudi Arabia.
